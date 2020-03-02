@@ -4,6 +4,8 @@ Main Topics for CKAD exam
 
 https://github.com/cncf/curriculum/blob/master/CKAD_Curriculum_V1.15.0.pdf
 
+Some of the excercises from :https://github.com/dgkanatsios/CKAD-exercises/blob/master/a.core_concepts.md
+
 Agenda for preparation:
 Containerize and deploy a new golang script
 
